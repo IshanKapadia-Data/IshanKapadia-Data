@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a Data Analyst and aspiring Data Scientist with a Mast
 
 ## 🛠 Tools & Skills
 - **Languages**: Python, SQL, R
-- **Visualization**: Power BI, Tableua, Excel
+- **Visualization**: Power BI, Tableau, Excel
 - **Databases**: MySQL, PostgreSQL, MS SQL Server
 
 ## 🌐 Let’s Connect
