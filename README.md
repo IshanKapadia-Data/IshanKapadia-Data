@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a Data Analyst and aspiring Data Scientist with a Mast
 
 ## 🌐 Let’s Connect
 - 📫 [LinkedIn](https://www.linkedin.com/in/imkapadia/)
-- 📬 Email: ishan.kapadia@hotmail.com
+- 📬 Email: ishan.kapadia.data@gmail.com
 
 ---
 
